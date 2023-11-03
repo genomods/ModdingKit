@@ -15,7 +15,7 @@
 
 #
 
-***Modding process: ***
+***Modding process:***
 
 Go in the following folder "Mod Menu/Android-Mod-Menu-2.8/app" and select the build.gradle file.
 
