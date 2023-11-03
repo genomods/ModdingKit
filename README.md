@@ -13,4 +13,7 @@
 
 ***In your "Mod Menu" folder, extract the contents of the Android-Mod-Menu-2.8.zip, which I put in the repository***
 
-
+#
+***Modding process***
+Go in the following folder "Mod Menu/Android-Mod-Menu-2.8/app" and select the build.gradle file.
+Inside of it change the number from 'compileSdkVersion' from 30 to 29, and the number from targetSdkVersion from 30 to 29
